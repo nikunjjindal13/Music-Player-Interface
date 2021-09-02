@@ -17,9 +17,12 @@ https://ninjatunes.netlify.app/
   - Contains an individual band or albums music information and playlist.
 #### ScreenShots
 1. Homepage
-![ss1](https://user-images.githubusercontent.com/37701482/91643177-a1231100-ea4e-11ea-8358-e3950a68e94e.jpg)
+![home 1](https://user-images.githubusercontent.com/75602889/131885693-384f1f9d-f234-4263-ab2a-d71cb17f53a4.jpg)
 
-![ss2](https://user-images.githubusercontent.com/37701482/91643183-a84a1f00-ea4e-11ea-8f33-7cbe1c26594d.jpg)
+![home 2](https://user-images.githubusercontent.com/75602889/131885814-fc1f480a-d403-4cda-bedb-d28ba66c39ca.jpg)
+
+![home 3](https://user-images.githubusercontent.com/75602889/131885854-c8703a2f-2fbc-4c76-84a9-672c0c346b8a.jpg)
 
 2. Playlist Page
-![ss3](https://user-images.githubusercontent.com/37701482/91643187-abdda600-ea4e-11ea-8ee7-a241a5610073.jpg)
+![playlist 1](https://user-images.githubusercontent.com/75602889/131885926-fdcc6424-eac4-41da-8322-de9312dbea30.jpg)
+
